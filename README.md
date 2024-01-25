@@ -145,9 +145,3 @@ model are:
 
 [4. https://www.researchgate.net/publication/322941653_Deep_learning_models_for_plant_disease_detection_and_diagnosis
 ](https://www.researchgate.net/publication/322941653_Deep_learning_models_for_plant_disease_detection_and_diagnosis)
-
-## <a id="ack"> Acknowledgement
-
-I would sincerely like to thank **Jeju National University**, **Jeju Development Center** & all the sponcers who have supported us for our work. And i would specially like to thank professor **Yungcheol Byun** for guiding us & helping us in every situation.
-
-![image](https://github.com/r-karthik/images/blob/master/detection_of_pests/camp.JPG)
