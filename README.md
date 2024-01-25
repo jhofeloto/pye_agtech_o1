@@ -1,5 +1,5 @@
 # Detection-of-pests
-Asian University Machine Learning Camp Jeju 2018
+Fortalecimiento de capacidades, conocimientos y herramientas en ctei para el aprovechamiento de los residuos orgánicos del cultivo de marañon en el Departamento de   Vichada
 
 ## Table of Contents
 1. [Overview](#overview)
